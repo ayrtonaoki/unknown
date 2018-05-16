@@ -16,6 +16,10 @@ function help(level){
 			alert("Did you notice any difference in the adress bar?");
 		break;
 		case 5:
-			alert("Seems like the answers are connected...")	
+			alert("Seems like the answers are connected...");
+		break;
+		case 6: 
+			alert("Someone is trying to contact you...")	;
+		break;
 	}
 }
