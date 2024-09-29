@@ -20,7 +20,7 @@ function validateForm(level) {
 			}
 			break;
 		case 3:
-			if (answer.value == "longtimeago")
+			if (answer.value == "long time ago")
 				return true;
 			else {
 				answer.value = "";
@@ -28,7 +28,7 @@ function validateForm(level) {
 			}
 			break;
 		case 4:
-			if (answer.value == "ineedyourhelp")
+			if (answer.value == "i need your help")
 				return true;
 			else {
 				answer.value = "";
@@ -40,6 +40,6 @@ function validateForm(level) {
 			else {
 				answer.value = "";
 				return false;
-			}						
+			}
 	}
 }
