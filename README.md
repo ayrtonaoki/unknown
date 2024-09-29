@@ -1,6 +1,14 @@
 # unknown
-**(EN)** unknown is a simple puzzle game where you have to uncover the answer for each level and form the complete message that someone is trying to send you...
-
-**(PT-BR)** unknown é um simples jogo de quebra-cabeça onde você precisa descobrir a resposta de cada nível e formar a mensagem completa que alguém está tentando enviar para você...
+unknown is a simple puzzle game where you have to uncover the answer for each level and form the complete message that someone is trying to send you...
 
 ![image](https://github.com/user-attachments/assets/1c50f412-db06-45d7-83c6-c2367dbcc177)
+
+## Getting started
+- `git clone https://github.com/ayrtonaoki/unknown.git`
+- Open the `unknown/index.html` file in your preference browser
+- GLHF :)
+
+## Stack
+- HTML
+- JS
+- CSS
